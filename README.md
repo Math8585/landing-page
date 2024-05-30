@@ -1,6 +1,6 @@
 Description:
 
-- [DEMO LINK](https:Math8585.github.io/landing-page/)
+- [DEMO LINK](https://math8585.github.io/landing-page/)
 - [MOCKUP](https://www.figma.com/design/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?node-id=6817-212)
 
 This is a user-friendly landing page created using HTML, SCSS, and BEM methodology.

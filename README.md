@@ -15,7 +15,19 @@ This user-friendly landing page is designed to introduce the assortment of an on
 # Getting Started
 To open this project locally:
 
-- Clone the repository.
-- Navigate to the project directory in your terminal.
-- Install the dependencies by running npm install.
-- Start the project by running npm start.
+- Clone the repository:
+```
+git clone https://github.com/Math8585/landing-page.git
+```
+- Navigate to the project directory in your terminal:
+```
+cd landing-page
+```
+- Install the dependencies:
+```
+npm install
+```
+- Start the project:
+```
+npm start
+```
